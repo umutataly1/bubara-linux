@@ -1,0 +1,17 @@
+Bubara Linux — Third-Party Sources
+
+The following projects are included in Bubara Linux:
+
+Linux Kernel
+Version: 6.18.49
+License: GPL-2.0-only
+Source: https://www.kernel.org/
+
+BusyBox
+Version: 1.38.0
+License: GPL-2.0-only
+Source: https://busybox.net/
+
+GNU GRUB
+License: GPL-3.0-or-later
+Source: https://www.gnu.org/software/grub/
